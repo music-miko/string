@@ -3,12 +3,12 @@ from pyrogram import Client
 import sys
 
 # --- YOUR CREDENTIALS (inserted as requested) ---
-API_ID = 7988735
-API_HASH = "8339b7684eb7f4653ed032d4828ebf89"
+API_ID = 24620300
+API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"
 # -----------------------------------------------
 
 # TARGET: use "me" for Saved Messages (recommended), or "@HeySiddhant"
-TARGET = "@HeySiddhant"
+TARGET = "@its_damiann"
 
 def normalise_target(t):
     if not t:
