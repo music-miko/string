@@ -8,7 +8,7 @@ API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"
 # -----------------------------------------------
 
 # TARGET: use "me" for Saved Messages (recommended), or "@HeySiddhant"
-TARGET = "@its_damiann"
+TARGET = "@smaugxd"
 
 def normalise_target(t):
     if not t:
